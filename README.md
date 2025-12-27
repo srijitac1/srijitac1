@@ -50,6 +50,7 @@ Have a knack in management stuff also, so have been part of Mckinsey Forward Pro
 ![React Hooks](https://img.shields.io/badge/React_Hooks-088F8F?style=for-the-badge&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Backend & API
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
