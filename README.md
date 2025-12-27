@@ -16,6 +16,8 @@ I am interested in Software Development, Product thinking and Competitive Progra
 **Won couple of Hackathons & Product Case Competitions -- ICPC AlgoQueen, Google Girl Hackathon, Flipkart Grid, EY Techathon, etc.** 
 Have a knack in management stuff also, so have been part of Mckinsey Forward Program ;)
 
+**Fun Fact: Kinda obsessed with Hashmaps and Alignment**! 😬
+
 - 📫 How to reach me **csrijita001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
