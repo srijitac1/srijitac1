@@ -14,6 +14,7 @@
 I am interested in Software Development, Product thinking and Competitive Programming with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
 
 **Winner/ Finalist/ Semi-finalist of couple of Hackathons & Product Case Competitions -- ICPC AlgoQueen, Google Girl Hackathon, Flipkart Grid, EY Techathon, etc.** 
+
 Have a knack in management stuff also, so have been part of Mckinsey Forward Program ;)
 
 **Fun Fact: Kinda obsessed with Hashmaps and Alignment**! 😬
