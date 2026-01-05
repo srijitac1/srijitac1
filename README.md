@@ -1,8 +1,5 @@
-
-
-![DIMFLIX animation](https://raw.githubusercontent.com/DIMFLIX/DIMFLIX/c0182a745c91e487aa9eb45314a6acd9e5954181/assets/main.gif)
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!" alt="Typing SVG" /></a>
-</div>
+<p align="center"><img src="https://camo.githubusercontent.com/6fe3e654403d6a67d1198d5422e4e725b69a609cbeb3e4da8d7cb6933c681968/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" /> </p>
+  
 
 <h1 align="center">Hi 👋, I'm Srijita Chakraborty</h1>
 <h3 align="center">A passionate Tech Enthusiast from India :)</h3>
