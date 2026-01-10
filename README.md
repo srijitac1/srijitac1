@@ -21,8 +21,6 @@ Have a knack in management stuff also, so have been part of Mckinsey Forward Pro
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srijita-chakraborty-a61a88290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srijita-chakraborty-a61a88290/" height="30" width="40" /></a>
-<a href="https://kaggle.com/srijitacb001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srijitacb001" height="30" width="40" /></a>
-</p>
 <a href="https://medium.com/@csrijita001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@csrijita001" height="30" width="40" /></a>
 </p>
 
