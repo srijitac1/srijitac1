@@ -74,10 +74,3 @@ Have a knack in management stuff also, so have been part of Mckinsey Forward Pro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Preview](https://spotify-live-banner.vercel.app/?spin=false&scan=true&eq_color=rainbow&theme=dark)
-
-**Hustling! Powered by music** 🎵😌
- 
-
-  </tr>
-
