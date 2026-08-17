@@ -10,7 +10,9 @@
 
 I am interested in Software Development & Product Sense with a special bias towards creativity and innovation. An Unbelievably lazy person, until I'm not. Love helping people with their problems and enjoy competition because I like to see growth & betterment in everyone, including me.
 
-**Winner/ Finalist/ Semi-finalist of couple of Hackathons & Product Case Competitions -- ICPC AlgoQueen, IMC Trading Prosperity 4 Finalist, Economic Times GenAI Hackathon, EY Techathon, etc. Represented for Google for Startups Immersion Program x ANTLER 2026** 
+**Winner/ Finalist/ Semi-finalist of couple of Hackathons & Product Case Competitions -- Amazon ML Summer School 2026, ICPC AlgoQueen, IMC Trading Prosperity 4 Finalist, Economic Times GenAI Hackathon, EY Techathon, etc.**
+
+**Represented for Google for Startups Immersion Program x ANTLER 2026** 
 
 Have a knack in management stuff also, so have been part of Mckinsey Forward Program ;)
 
